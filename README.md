@@ -7,4 +7,4 @@ Copyright © 2020 Jesus Vasquez-Cipriano. All rights reserved.
 **SUMMARY**
 
 **Procedure:**
-This program ciphers and deciphers a user-inputted string by using the ordinal of the string's first character as the key to encrypt all string characters. The main program interacts (input/output) with the user, calling two functions to cipher and decipher.
+This program ciphers and deciphers a user-inputted string by using the ordinal of the string's first character as the key to encrypt all string characters. Two functions are called from the main function to cipher and decipher.
